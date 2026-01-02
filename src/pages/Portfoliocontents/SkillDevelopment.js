@@ -5,35 +5,35 @@ import { motion } from "framer-motion";
 
 const skilldevelopmentImage = [
   {
-    img: "/assets/portfolioPageImages/skilldevelopment/SKILL1.webp",
+    img: "/assets/portfoliopageimages/skilldevelopment/skill1.webp",
     text: "Salem-Kunnur School",
   },
   {
-    img: "/assets/portfolioPageImages/skilldevelopment/SKILL2.webp",
+    img: "/assets/portfoliopageimages/skilldevelopment/skill2.webp",
     text: "Covai-Muttathuvayal School",
   },
   {
-    img: "/assets/portfolioPageImages/skilldevelopment/SKILL3.webp",
+    img: "/assets/portfoliopageimages/skilldevelopment/skill3.webp",
     text: "ADW 100 School",
   },
   {
-    img: "/assets/portfolioPageImages/skilldevelopment/SKILL4.webp",
+    img: "/assets/portfoliopageimages/skilldevelopment/skill4.webp",
     text: "Villupuram-Sankarapuram School",
   },
   {
-    img: "/assets/portfolioPageImages/skilldevelopment/SKILL5.webp",
+    img: "/assets/portfoliopageimages/skilldevelopment/skill5.webp",
     text: "Thanjavur-Nalladai",
   },
   {
-    img: "/assets/portfolioPageImages/skilldevelopment/SKILL6.webp",
+    img: "/assets/portfoliopageimages/skilldevelopment/skill6.webp",
     text: "Sevvapet Girls School",
   },
   {
-    img: "/assets/portfolioPageImages/skilldevelopment/SKILL7.webp",
+    img: "/assets/portfoliopageimages/skilldevelopment/skill7.webp",
     text: "Erode-Kongadai School",
   },
   {
-    img: "/assets/portfolioPageImages/skilldevelopment/SKILL8.webp",
+    img: "/assets/portfoliopageimages/skilldevelopment/skill8.webp",
     text: "GTR School",
   },
 ];
