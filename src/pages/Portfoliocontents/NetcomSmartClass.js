@@ -103,7 +103,7 @@ const NetcomSmartClass = () => {
   const schools = [
     {
       name: "Oxford Matric School",
-      img: "/assets/portfoliopageimages/nsc/nsc01.jpg",
+      img: "/assets/portfoliopageimages/nsc/nsc01.webp",
     },
     {
       name: "Green Valley Public School",

@@ -13,47 +13,47 @@ import { motion } from "framer-motion";
 const imageName = [
   {
     name: "புகைவண்டி",
-    imgLink: "/assets/portfoliopageimages/youtube/y1.jpg",
+    imgLink: "/assets/portfoliopageimages/youtube/y1.webp",
     videoLink: "https://www.youtube.com/watch?v=Uz98TQd1U_s",
   },
   {
     name: "Adventures of Tenaliraman",
-    imgLink: "/assets/portfoliopageimages/youtube/y2.jpg",
+    imgLink: "/assets/portfoliopageimages/youtube/y2.webp",
     videoLink: "https://www.youtube.com/watch?v=elpnngb_-NM",
   },
   {
     name: "Adventures of Vikramadhityan",
-    imgLink: "/assets/portfoliopageimages/youtube/y3.jpg",
+    imgLink: "/assets/portfoliopageimages/youtube/y3.webp",
     videoLink: "https://www.youtube.com/watch?v=0u9WoKh2auI&t=342s",
   },
   {
     name: "சிட்டு",
-    imgLink: "/assets/portfoliopageimages/youtube/y4.jpg",
+    imgLink: "/assets/portfoliopageimages/youtube/y4.webp",
     videoLink: "https://youtu.be/Vmq9CDAMjVk?t=113",
   },
   {
     name: "Moral Stories",
-    imgLink: "/assets/portfoliopageimages/youtube/y5.jpg",
+    imgLink: "/assets/portfoliopageimages/youtube/y5.webp",
     videoLink: "https://www.youtube.com/watch?v=XEA_ruJZxIE",
   },
   {
     name: "பச்சை கிளி",
-    imgLink: "/assets/portfoliopageimages/youtube/y6.jpg",
+    imgLink: "/assets/portfoliopageimages/youtube/y6.webp",
     videoLink: "https://youtu.be/Uz98TQd1U_s?t=63",
   },
   {
     name: "ஆணை",
-    imgLink: "/assets/portfoliopageimages/youtube/y7.jpg",
+    imgLink: "/assets/portfoliopageimages/youtube/y7.webp",
     videoLink: "https://youtu.be/Uz98TQd1U_s?t=125",
   },
   {
     name: "வீரன்",
-    imgLink: "/assets/portfoliopageimages/youtube/y8.jpg",
+    imgLink: "/assets/portfoliopageimages/youtube/y8.webp",
     videoLink: "https://youtu.be/Uz98TQd1U_s",
   },
   {
     name: "குள்ள வாத்து",
-    imgLink: "/assets/portfoliopageimages/youtube/y9.jpg",
+    imgLink: "/assets/portfoliopageimages/youtube/y9.webp",
     videoLink: "https://youtu.be/Vmq9CDAMjVk",
   },
 ];
