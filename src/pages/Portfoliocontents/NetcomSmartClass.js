@@ -103,51 +103,51 @@ const NetcomSmartClass = () => {
   const schools = [
     {
       name: "Oxford Matric School",
-      img: "/assets/portfolioPageImages/NSC/NSC01.jpg",
+      img: "/assets/portfoliopageimages/nsc/nsc01.jpg",
     },
     {
       name: "Green Valley Public School",
-      img: "/assets/portfolioPageImages/NSC/NSC04.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc04.webp",
     },
     {
       name: "St. Mary’s High School",
-      img: "/assets/portfolioPageImages/NSC/NSC07.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc07.webp",
     },
     {
       name: "Sunshine International",
-      img: "/assets/portfolioPageImages/NSC/NSC10.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc10.webp",
     },
     {
       name: "Global Academy",
-      img: "/assets/portfolioPageImages/NSC/NSC13.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc13.webp",
     },
     {
       name: "Vivekananda Vidyalaya",
-      img: "/assets/portfolioPageImages/NSC/NSC15.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc15.webp",
     },
     {
       name: "Little Angels School",
-      img: "/assets/portfolioPageImages/NSC/NSC19.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc19.webp",
     },
     {
       name: "Mount Zion Matric",
-      img: "/assets/portfolioPageImages/NSC/NSC22.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc22.webp",
     },
     {
       name: "Bright Future School",
-      img: "/assets/portfolioPageImages/NSC/NSC26.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc26.webp",
     },
     {
       name: "Elite Public School",
-      img: "/assets/portfolioPageImages/NSC/NSC28.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc28.webp",
     },
     {
       name: "Royal International",
-      img: "/assets/portfolioPageImages/NSC/NSC30.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc30.webp",
     },
     {
       name: "Silver Star Academy",
-      img: "/assets/portfolioPageImages/NSC/NSC35.webp",
+      img: "/assets/portfoliopageimages/nsc/nsc35.webp",
     },
   ];
 

@@ -5,39 +5,39 @@ import { motion } from "framer-motion";
 
 const kioskImage = [
   {
-    img: "/assets/portfolioPageImages/kioskImage/kiosk1.webp",
+    img: "/assets/portfoliopageimages/kioskimage/kiosk1.webp",
     text: "Salem-Kunnur School",
   },
   {
-    img: "/assets/portfolioPageImages/kioskImage/kiosk2.webp",
+    img: "/assets/portfoliopageimages/kioskimage/kiosk2.webp",
     text: "Thanjavur-Nalladai",
   },
   {
-    img: "/assets/portfolioPageImages/kioskImage/kiosk3.webp",
+    img: "/assets/portfoliopageimages/kioskimage/kiosk3.webp",
     text: "Villupuram-Sankarapuram School",
   },
   {
-    img: "/assets/portfolioPageImages/kioskImage/kiosk4.webp",
+    img: "/assets/portfoliopageimages/kioskimage/kiosk4.webp",
     text: "GTR School",
   },
   {
-    img: "/assets/portfolioPageImages/kioskImage/kiosk5.webp",
+    img: "/assets/portfoliopageimages/kioskimage/kiosk5.webp",
     text: "Erode-Kongadai School",
   },
   {
-    img: "/assets/portfolioPageImages/kioskImage/kiosk6.webp",
+    img: "/assets/portfoliopageimages/kioskimage/kiosk6.webp",
     text: "Dharmapuri-Sitheri School",
   },
   {
-    img: "/assets/portfolioPageImages/kioskImage/kiosk7.webp",
+    img: "/assets/portfoliopageimages/kioskimage/kiosk7.webp",
     text: "Covai-Muttathuvayal School",
   },
   {
-    img: "/assets/portfolioPageImages/kioskImage/kiosk8.webp",
+    img: "/assets/portfoliopageimages/kioskimage/kiosk8.webp",
     text: "Sevvapet Girls School",
   },
   {
-    img: "/assets/portfolioPageImages/kioskImage/kiosk9.webp",
+    img: "/assets/portfoliopageimages/kioskimage/kiosk9.webp",
     text: "ADW 100 School",
   },
 ];

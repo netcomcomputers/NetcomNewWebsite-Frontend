@@ -5,27 +5,27 @@ import { motion } from "framer-motion";
 
 const digitalContent = [
   {
-    img: "/assets/portfolioPageImages/DigitalContentImage/dg1.webp",
+    img: "/assets/portfoliopageimages/digitalcontentimage/dg1.webp",
     text: "Sevvapet Girls School",
   },
   {
-    img: "/assets/portfolioPageImages/DigitalContentImage/dg2.webp",
+    img: "/assets/portfoliopageimages/digitalcontentimage/dg2.webp",
     text: "Erode-Kongadai School",
   },
   {
-    img: "/assets/portfolioPageImages/DigitalContentImage/dg3.webp",
+    img: "/assets/portfoliopageimages/digitalcontentimage/dg3.webp",
     text: "Villupuram-Sankarapuram School",
   },
   {
-    img: "/assets/portfolioPageImages/DigitalContentImage/dg4.webp",
+    img: "/assets/portfoliopageimages/digitalcontentimage/dg4.webp",
     text: "Salem-Kunnur School",
   },
   {
-    img: "/assets/portfolioPageImages/DigitalContentImage/dg5.webp",
+    img: "/assets/portfoliopageimages/digitalcontentimage/dg5.webp",
     text: "Thanjavur-Nalladai",
   },
   {
-    img: "/assets/portfolioPageImages/DigitalContentImage/dg6.webp",
+    img: "/assets/portfoliopageimages/digitalcontentimage/dg6.webp",
     text: "GTR School",
   },
 ];
